@@ -1,0 +1,63 @@
+/* #bhool{
+    display: flex;
+
+}
+#kgf{
+    display: flex;
+}
+
+
+.secondrow{
+    width:20% ;
+    height: 50%;
+}
+.firstrow{
+    width:20% ;
+    height: 10%;
+}
+img{
+    width: 30%;
+    height: 50%;
+}
+button{
+    background-color: rgb(63, 191, 191);
+} */
+html{
+    background-color: #f5f5f5ec;
+}
+#images{
+    background-color: white;
+    justify-content:left;
+    display: flex;
+    width: 1200px;
+    height: 580px;
+}
+button{
+    padding:5px 15px;
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    background-color: skyblue;
+    border-style: none;
+}
+.x1{
+  width: 380px;
+}
+.x2{
+    width: 380px;
+    padding-left: 10px;
+}
+.x3{
+   width: 380px;
+    padding-left: 10px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+
+
